@@ -1,0 +1,11 @@
+{
+  "name": "@phillipleblanc/pi",
+  "version": "0.1.0",
+  "description": "Pi extensions and skills for Spice.ai development workflows",
+  "keywords": ["pi-package"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phillipleblanc/pi.git"
+  }
+}
